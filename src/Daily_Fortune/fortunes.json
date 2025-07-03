@@ -1,0 +1,238 @@
+{
+  "yi": [
+    {
+      "action": "请假",
+      "reason": "老师会爽快批准"
+    },
+    {
+      "action": "群聊八卦",
+      "reason": "能听到劲爆消息"
+    },
+    {
+      "action": "考前突击",
+      "reason": "重点全押中"
+    },
+    {
+      "action": "写论文",
+      "reason": "灵感如泉涌"
+    },
+    {
+      "action": "抢课",
+      "reason": "热门教授手到擒来"
+    },
+    {
+      "action": "小组作业",
+      "reason": "队友超给力"
+    },
+    {
+      "action": "送礼物",
+      "reason": "对方感动哭"
+    },
+    {
+      "action": "第一次约会",
+      "reason": "火花四溅"
+    },
+    {
+      "action": "复合",
+      "reason": "旧情复燃"
+    },
+    {
+      "action": "网恋",
+      "reason": "遇到真命天子/女"
+    },
+    {
+      "action": "追剧",
+      "reason": "全集一次性放出"
+    },
+    {
+      "action": "打游戏",
+      "reason": "排位连胜"
+    },
+    {
+      "action": "K歌",
+      "reason": "发挥超常水平"
+    },
+    {
+      "action": "吃火锅",
+      "reason": "不用排队"
+    },
+    {
+      "action": "捡钱",
+      "reason": "路上有惊喜"
+    },
+    {
+      "action": "投资",
+      "reason": "收益翻倍"
+    },
+    {
+      "action": "砍价",
+      "reason": "老板爽快让步"
+    },
+    {
+      "action": "体检",
+      "reason": "各项指标完美"
+    },
+    {
+      "action": "早睡",
+      "reason": "秒入睡"
+    },
+    {
+      "action": "健身",
+      "reason": "效果显著"
+    },
+    {
+      "action": "喝热水",
+      "reason": "排毒养颜"
+    },
+    {
+      "action": "转发锦鲤",
+      "reason": "好运马上来"
+    },
+    {
+      "action": "水逆退散",
+      "reason": "诸事顺利"
+    },
+    {
+      "action": "相信玄学",
+      "reason": "心想事成"
+    },
+    {
+      "action": "做梦",
+      "reason": "美梦成真"
+    },
+    {
+      "action": "图书馆熬夜",
+      "reason": "咖啡续杯半价"
+    },
+    {
+      "action": "北大楼拍照",
+      "reason": "爬山虎光影绝美"
+    },
+    {
+      "action": "参加十大歌手",
+      "reason": "重在参与"
+    },
+    {
+      "action": "写算法",
+      "reason": "LeetCode每日一题秒杀"
+    },
+    {
+      "action": "重构代码",
+      "reason": "随手一改，性能提升100%"
+    },
+    {
+      "action": "深夜coding",
+      "reason": "print(\"hello world\")一次通过"
+    }
+  ],
+  "ji": [
+    {
+      "action": "调休",
+      "reason": "系统可能出故障"
+    },
+    {
+      "action": "打小报告",
+      "reason": "可能被反杀"
+    },
+    {
+      "action": "作弊",
+      "reason": "监考特别严"
+    },
+    {
+      "action": "查重",
+      "reason": "重复率超标"
+    },
+    {
+      "action": "翘课",
+      "reason": "突然点名"
+    },
+    {
+      "action": "个人展示",
+      "reason": "电脑可能死机"
+    },
+    {
+      "action": "查岗",
+      "reason": "自找不痛快"
+    },
+    {
+      "action": "见家长",
+      "reason": "可能被刁难"
+    },
+    {
+      "action": "翻旧账",
+      "reason": "引发世界大战"
+    },
+    {
+      "action": "奔现",
+      "reason": "见光死风险高"
+    },
+    {
+      "action": "剧透",
+      "reason": "被群殴风险"
+    },
+    {
+      "action": "氪金",
+      "reason": "抽卡全保底"
+    },
+    {
+      "action": "跳舞",
+      "reason": "可能扭到腰"
+    },
+    {
+      "action": "减肥",
+      "reason": "朋友约烧烤"
+    },
+    {
+      "action": "借钱",
+      "reason": "有去无回"
+    },
+    {
+      "action": "赌博",
+      "reason": "输掉裤衩"
+    },
+    {
+      "action": "冲动消费",
+      "reason": "后悔一整天"
+    },
+    {
+      "action": "称体重",
+      "reason": "数字很残酷"
+    },
+    {
+      "action": "熬夜",
+      "reason": "黑眼圈加重"
+    },
+    {
+      "action": "节食",
+      "reason": "半夜饿醒"
+    },
+    {
+      "action": "吃外卖",
+      "reason": "可能拉肚子"
+    },
+    {
+      "action": "立flag",
+      "reason": "必倒无疑"
+    },
+    {
+      "action": "毒奶自己",
+      "reason": "怕啥来啥"
+    },
+    {
+      "action": "挑战概率",
+      "reason": "自取其辱"
+    },
+    {
+      "action": "许愿",
+      "reason": "反向实现"
+    },
+    {
+      "action": "吃食堂",
+      "reason": "真的不好吃"
+    },
+    {
+      "action": "换新键盘",
+      "reason": "机械轴吵醒室友"
+    }
+  ]
+}
