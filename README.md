@@ -18,7 +18,7 @@
 - 系统：Windows
 
 ### 安装前
-- <这里放链接>
+- [点击此处下载完整项目压缩包](https://1drv.ms/u/c/3fee49f8f537c168/EfkCfcBNO6FJj0Q8Y2ysydYBUG_a9G0nE-mWdXLHiQV2-g?e=YIwB15)
 - 在gitlab右侧项目信息处点击【发布】跳转后下载【软件包】 (NJU-PETs-setup.exe) 并根据引导安装 NJU-PETs(**不要装在C盘**)
 - 需要获取AI对话的api-key（在阿里云百炼平台可申请）
 - ~~需要获取天气api-key~~（目前不需要）
