@@ -18,7 +18,7 @@
 - 系统：Windows
 
 ### 安装前
-- [点击此处下载完整项目压缩包](https://1drv.ms/u/c/3fee49f8f537c168/EfkCfcBNO6FJj0Q8Y2ysydYBUG_a9G0nE-mWdXLHiQV2-g?e=YIwB15)>
+- [点击此处下载完整项目压缩包](https://1drv.ms/u/c/3fee49f8f537c168/EfkCfcBNO6FJj0Q8Y2ysydYBUG_a9G0nE-mWdXLHiQV2-g?e=YIwB15)
 > ⚠️ 注意：由于 GitHub 文件大小限制，本仓库未包含 `.gif` 动画与 `.mp3` 音频等大文件，完整资源请通过上方链接下载。
 - 在gitlab右侧项目信息处点击【发布】跳转后下载【软件包】 (NJU-PETs-setup.exe) 并根据引导安装 NJU-PETs(**不要装在C盘**)
 - 需要获取AI对话的api-key（在阿里云百炼平台可申请）
